@@ -11,12 +11,17 @@ TECNOLOGIAS UTILIZADAS:
   -GIMP <br />
   -AUDACITY <br />
 <br />
+
+(img/Captura2.png)
+
 PROCESO DE DESARROLLO: <br />
+<br />
   2EV: <br />
     Esta evaluación me he enfocado más en aprender lo básico de C# y unity.
     En vez de seguir paso a paso un tutorial de "como hacer un juego" he preferido ver tutoriales más generales, prefiero entender en profundidad los conceptos básicos y los fundamentos, sacar mis propias soluciones a los problemas y ser capaz de hacer lo que yo quiero, no seguir un tutorial.
     Adjunto una prueba muy básica de movimiento de personajes, sin animaciones (estoy viendo tutoriales, pero aun no he trabajado en eso), y multiples assets que usaré como placeholders para el futuro cercano.
     Mis metas para el próximo trimestre son tener un sistema completo de animaciones y una escena básica.
+        <br />
         <br />
   3EV:<br />
     Este trimestre he añadido un sistema básico de animaciones que incluye:
@@ -31,6 +36,7 @@ PROCESO DE DESARROLLO: <br />
     Una vez implementados los estados de stun, combo etc. implementar una barra de vida será bastante sencillo.
     Tengo pensado sacar las fotos para los graficos en verano, quiza empiece a hacer un menú.
 <br />
+<br />
 MAYORES PROBLEMAS ENCONTRADOS:<br />
   -Me ha costado bastante poder programar un sistema de movimiento que tuviese en cuenta cuando estás en movimiento, cuando estás golpeando, cuando estás bloqueando y cuando estás en el aire.
   -Poder correr hacia delante sin poder correr hacia detrás al pulsar ambas teclas.
@@ -38,13 +44,17 @@ MAYORES PROBLEMAS ENCONTRADOS:<br />
   -Problemas con el collider 2d.
 <br />
 
+  (img/Captura1.png)
   
+ 
 
 SIGUIENTES MEJORAS: <br /> 
   -GRAFICOS REALES <br />
   -INTERACCION ENTRE LOS PERSONAJES <br />
   -MENU DE SELECCION <br />
   -SONIDO <br />
+
+   (img/Captura3.png)
 
 Jose Luis López <br />
 1ºDAM <br /> 
