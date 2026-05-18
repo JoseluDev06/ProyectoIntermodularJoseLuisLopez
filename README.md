@@ -39,10 +39,10 @@ PROCESO DE DESARROLLO: <br />
 <br />
 <br />
 MAYORES PROBLEMAS ENCONTRADOS:<br />
-  -Me ha costado bastante poder programar un sistema de movimiento que tuviese en cuenta cuando estás en movimiento, cuando estás golpeando, cuando estás bloqueando y cuando estás en el aire.
-  -Poder correr hacia delante sin poder correr hacia detrás al pulsar ambas teclas.
-  -Evitar spameo de ataques.
-  -Problemas con el collider 2d.
+  -Me ha costado bastante poder programar un sistema de movimiento que tuviese en cuenta cuando estás en movimiento, cuando estás golpeando, cuando estás bloqueando y cuando estás en el aire.<br />
+  -Poder correr hacia delante sin poder correr hacia detrás al pulsar ambas teclas.<br />
+  -Evitar spameo de ataques.<br />
+  -Problemas con el collider 2d.<br />
 <br />
 <br />
   ![Imagen del proyecto](img/Captura1.png)
