@@ -14,6 +14,7 @@ TECNOLOGIAS UTILIZADAS:
 <br />
 ![Primer gameplay](img/Captura2.png)
 <br />
+<br />
 PROCESO DE DESARROLLO: <br />
 <br />
   2EV: <br />
