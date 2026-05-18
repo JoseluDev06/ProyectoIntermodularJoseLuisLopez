@@ -11,9 +11,9 @@ TECNOLOGIAS UTILIZADAS:
   -GIMP <br />
   -AUDACITY <br />
 <br />
-
-(img/Captura2.png)
-
+<br />
+![Primer gameplay](img/Captura2.png)
+<br />
 PROCESO DE DESARROLLO: <br />
 <br />
   2EV: <br />
@@ -43,19 +43,18 @@ MAYORES PROBLEMAS ENCONTRADOS:<br />
   -Evitar spameo de ataques.
   -Problemas con el collider 2d.
 <br />
-
-  (img/Captura1.png)
-  
- 
-
+<br />
+  ![Imagen del proyecto](img/Captura1.png)
+<br />
+<br />
 SIGUIENTES MEJORAS: <br /> 
   -GRAFICOS REALES <br />
   -INTERACCION ENTRE LOS PERSONAJES <br />
   -MENU DE SELECCION <br />
   -SONIDO <br />
-
-   (img/Captura3.png)
-
+<br />
+   ![Imagen del animator](img/Captura3.png)
+<br />
 Jose Luis López <br />
 1ºDAM <br /> 
 IES el Grao 2025-2026 <br />
